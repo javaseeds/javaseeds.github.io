@@ -9,7 +9,7 @@ Jekyll on Github, I'm trying to do these things as well (at work and home):
 
 - Redis and AWS Elasticache
 - Kinesis Streams
-- Beewax Bid
+- Beeswax Bid
 - Protocol Buffers
 - Docker
 - Neo4j
