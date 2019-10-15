@@ -9,9 +9,9 @@ some samples of some of my musings, things I have learned and am learning.  It's
 
 But in the coming weeks, I have these articles along with functioning sample code to be published
 
-- How to unit test Validation code 
+- How to unit test Validation code
   - One sample using Micronaut's new validator
-  - Another sample using Spring Boot v2.1.x and Hibernate's Validato
+  - Another sample using Spring Boot v2.1.x and Hibernate's Validator
 - Sample apps for AWS that I've been learning how to do lately
   - DynamoDb, including the very useful LocalDynamoDB
   - Elasticache, specifically Redis, that I started playing with at work with AWS Kinesis Streams
